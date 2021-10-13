@@ -1,6 +1,3 @@
-# 299792458k-AI_Chess
-<script src="https://gist.github.com/idunknowcode/53130d176eaaec1bcc8d77f754a16b0d.js"></script>
-Hướng dẫn dùng git cơ bản
 I.  Giới thiệu Git:
     https://blog.duyetdev.com/2015/04/git-va-cac-khai-niem-co-ban.html#.VyM70PmLTDc
     * Tóm tắt:
